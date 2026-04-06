@@ -59,6 +59,9 @@ Follow the [step-by-step workflow guide](https://denisecase.github.io/pro-analyt
 4. Phase 4. **Modify**
 5. Phase 5. **Apply**
 
+## Changes
+Added rounding to the rolling mean calculations to improve readability and ensure cleaner, more consistent values for analysis and visualization.
+
 ## Challenges
 
 Challenges are expected.
